@@ -127,9 +127,7 @@ const Portfolio = () => {
                     Code
                   </button>
                 )}
-                 {!website && !link && (
-                    <p className="text-white bg-red-500 p-2 mt-2 rounded-md">Under In Process</p>
-                  )}
+                
               </div>
             </div>
           ))}
