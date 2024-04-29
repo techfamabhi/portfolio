@@ -16,7 +16,8 @@ const Portfolio = () => {
       id: 8,
       src: Function_Hall,
       name: "Function Hall Project",
-      title: "Under In Process"
+      // title: "Under In Process"
+      link:"https://bookmyfunctionhall.com/"
     },
     {
       id: 1,
